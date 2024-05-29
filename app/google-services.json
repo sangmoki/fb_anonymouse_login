@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798252023019",
+    "project_id": "fb-anonymous-login-86b9c",
+    "storage_bucket": "fb-anonymous-login-86b9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798252023019:android:8e18edbe536049879812ae",
+        "android_client_info": {
+          "package_name": "com.sangmoki.fb_anonymous_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUlzgNTvSW17I2I1GOsPptO5Vzc0WZ9GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
